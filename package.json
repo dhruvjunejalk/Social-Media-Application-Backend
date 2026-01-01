@@ -1,0 +1,21 @@
+{
+  "name": "social-media-project",
+  "version": "1.0.0",
+  "description": "this the social media backend where the user can tweet, upload photos and videos etc.",
+  "keywords": [
+    "backend",
+    "socialMedia",
+    "social",
+    "connect"
+  ],
+  "license": "ISC",
+  "author": "Dhruv Juneja",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.3"
+  }
+}
